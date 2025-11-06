@@ -1,0 +1,4 @@
+
+dataset_path: '../Datasets'
+question_path: '../all_questions'
+properties_path: '../property_dicts'
