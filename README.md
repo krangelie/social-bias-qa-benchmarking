@@ -1,4 +1,4 @@
-# qa-benchmark-biases
+# Social Bias in Popular Question-Answering Benchmarks
 Code for the analyses presented in the paper "Social Bias in Popular Question-Answering Benchmarks".
 
 To replicate our benchmark dataset analyses, you must download the benchmark datasets into a datasets folder. 
